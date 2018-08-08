@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context>
+	<Resource name="jdbc/SVV" 
+		auth="Container" 
+		type="javax.sql.DataSource"
+		driverClassName="oracle.jdbc.OracleDriver" 
+		url="jdbc:oracle:thin:@10.171.128.60:51521:etCASM" username="SVV" password="Zpm6wiCa" />
+	<Manager pathname="" />
+
+</Context>
